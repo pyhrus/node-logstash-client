@@ -25,7 +25,7 @@
   "homepage": "https://github.com/purposeindustries/node-logstash-client",
   "dependencies": {
     "debug": "^1.0.4",
-    "reconnect-net": "0.0.0"
+    "reconnect-net": "git://github.com/pyhrus/reconnect-net.git"
   },
   "devDependencies": {
     "coveralls": "^2.11.1",
